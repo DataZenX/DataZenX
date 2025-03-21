@@ -1,4 +1,4 @@
-# Hi there, I'm Arman! 👋  
+# Hi there, I'm DataZenX! 👋  
 
 ## 🚀 About Me  
 I'm a passionate "Data Scientist, Coder, and Writer" who loves exploring the world of "data, astronomy, and psychology." Science and logic drive my curiosity, and I believe in "With the power of science, anything's possible!"  
